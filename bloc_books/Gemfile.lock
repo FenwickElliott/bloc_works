@@ -6,13 +6,15 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    rack (1.6.5)
+    erubis (2.7.0)
+    rack (1.6.8)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   bloc_works!
+  erubis
   rack (~> 1.6)
 
 BUNDLED WITH

@@ -1,4 +1,7 @@
 require "bloc_works/version"
+require "bloc_works/dependencies"
+require "bloc_works/controller"
+require "bloc_works/router"
 
 module BlocWorks
   class Application
